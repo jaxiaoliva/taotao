@@ -1,0 +1,5 @@
+com\taotao\portal\interceptor\LoginInterceptor.class
+com\taotao\portal\pojo\Ad1Node.class
+com\taotao\portal\service\UserService.class
+com\taotao\portal\controller\PageController.class
+com\taotao\portal\service\impl\UserServiceImpl.class

@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [10/Mar/2019:10:40:48 +0800] "GET / HTTP/1.1" 200 2680 http-bio-8081-exec-1 7757
+0:0:0:0:0:0:0:1 - - [10/Mar/2019:10:40:48 +0800] "GET / HTTP/1.1" 200 2680 http-bio-8081-exec-3 2294
+0:0:0:0:0:0:0:1 - - [10/Mar/2019:10:40:50 +0800] "GET /js/common.js HTTP/1.1" 304 - http-bio-8081-exec-5 1533
+0:0:0:0:0:0:0:1 - - [10/Mar/2019:10:40:53 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-8081-exec-6 15
+127.0.0.1 - - [10/Mar/2019:10:41:04 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-8 6
+127.0.0.1 - - [10/Mar/2019:10:41:16 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 404 949 http-bio-8081-exec-10 16
